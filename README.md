@@ -1,4 +1,4 @@
-🛰️ A.F.E.T. | Advanced Framework for Emergency Tracking
+🛰️ A.F.E.T. | Analitik Fotogrametri ve Etki Takibi
 Afet Yönetimi ve Operasyonel Komuta Terminali
 A.F.E.T., afet sonrası kritik ilk dakikalarda karar vericilere ve operasyonel komuta merkezlerine yüksek doğruluklu, düşük gecikmeli görsel veri sunmak amacıyla geliştirilmiş bir Karar Destek Sistemidir (DSS). Özellikle İstanbul odağında Marmara Bölgesi için optimize edilen bu terminal; lojistik hat analizi, enkaz bölgeleme ve güvenli alan koordinasyonunu tek bir merkezde birleştirir.
 
@@ -12,7 +12,7 @@ Hedef Kullanıcı: Afet Koordinasyon Merkezleri (AKOM, AFAD vb.) ve saha komuta 
 🛠 Teknik Mimari ve Teknolojiler
 Proje, kriz anlarında kesintisiz hizmet verebilmek adına Thin-Client (İnce İstemci) mimarisi üzerine inşa edilmiştir.
 
-Harita Motoru: Leaflet.js (Hafif, modüler ve yüksek genişletilebilirlik).
+Harita Motoru: Leaflet.js (Hafif, modüler ve yüksek genişletilebilirlik), windy.com sayfaları.
 
 Coğrafi Veri Katmanı: ArcGIS World Imagery (Gerçek zamanlı ve yüksek çözünürlüklü uydu entegrasyonu).
 
@@ -53,7 +53,7 @@ Bash
 
 # Depoyu klonlayın
 
-git clone https://github.com/kullaniciadi/afet-terminal.git
+git clone [https://github.com/kullaniciadi/afet-terminal.git](https://github.com/Froxy09/AFET)
 
 # Proje dizinine gidin
 
@@ -69,7 +69,5 @@ npm start OR python -m http.server
 
 📅 Yol Haritası (Roadmap)
 [ ] Gerçek zamanlı IoT sensör verilerinin haritaya entegrasyonu.
-
-[ ] İHA (UAV) görüntülerinin anlık olarak katman olarak eklenmesi.
 
 [ ] Çevrimdışı (Offline) çalışma modu için vektör tile desteği.
