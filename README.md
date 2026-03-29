@@ -44,12 +44,21 @@ Güzergahlar, aracın tipine ve görev önceliğine göre dinamik olarak sınıf
 - 🟢 *Yeşil Bölge (Safe Zone):* Coğrafi olarak güvenli, altyapısı korunmuş ve toplu barınmaya uygun alanlar.
 
 ---
-!["Ana Menü"](/Ekran görüntüsü 2026-03-29 125323.png)
 
+Ana menü tasarımımız:
+<img width="1919" height="882" alt="Ekran görüntüsü 2026-03-29 125323" src="https://github.com/user-attachments/assets/16109b6b-2c56-4e5a-9f69-e196bfaf9043" />
 
+Sismik analiz ekranı tasarımımız:
+<img width="1919" height="857" alt="Ekran görüntüsü 2026-03-29 125340" src="https://github.com/user-attachments/assets/bb8b911e-252b-492e-ad7c-9129dc1c67c5" />
 
+Deprem verileri ekranı tasarımımız:
+<img width="1919" height="874" alt="Ekran görüntüsü 2026-03-29 125400" src="https://github.com/user-attachments/assets/86f706e3-3bd1-4e06-a945-3eefb8e53967" />
 
+Hasar ve lojistik rota ekranı tasarımımız:
+<img width="1919" height="875" alt="Ekran görüntüsü 2026-03-29 125517" src="https://github.com/user-attachments/assets/6a9d819a-76cd-4abb-9e32-fcf4fb888b2b" />
 
+Uydu durumu ekranı tasarımımız:
+<img width="1919" height="875" alt="Ekran görüntüsü 2026-03-29 125420" src="https://github.com/user-attachments/assets/47f68520-6c2c-4135-8847-663267cdc942" />
 
 ---
 
