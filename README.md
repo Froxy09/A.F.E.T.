@@ -44,8 +44,7 @@ Güzergahlar, aracın tipine ve görev önceliğine göre dinamik olarak sınıf
 - 🟢 *Yeşil Bölge (Safe Zone):* Coğrafi olarak güvenli, altyapısı korunmuş ve toplu barınmaya uygun alanlar.
 
 ---
-<img width="1918" height="875" alt="image" src="[https://github.com/user-attachments/assets/1792727a-33e7-4dbf-a0b3-4d401a9c0216](https://raw.githubusercontent.com/Froxy09/AFET/refs/heads/main/Ekran%20görüntüsü%202026-03-29%20125323.png)" />
-
+!["Ana Menü"](/Ekran görüntüsü 2026-03-29 125323.png)
 
 
 
