@@ -65,7 +65,7 @@ npm install
 
 # Uygulamayı başlatın
 
-npm start
+npm start OR python -m http.server
 
 📅 Yol Haritası (Roadmap)
 [ ] Gerçek zamanlı IoT sensör verilerinin haritaya entegrasyonu.
